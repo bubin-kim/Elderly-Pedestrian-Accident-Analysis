@@ -11,4 +11,6 @@
 중심에서 주변까지의 거리 왜곡이 적어 공간 분석에서 보다 안정적인 결과를 제공한다.  
 따라서 교통사고와 같은 공간적 밀집 현상을 분석하는 데 적합하다고 판단하였다.
 
-<img width="2246" height="1580" alt="daejeon_grid" src="https://github.com/user-attachments/assets/4a26ddc6-df35-4d07-9881-fe41a2f78525" />
+격자는 500으로 설정 -> 공간 패턴을 세밀하게 볼 수 있지만 노이즈가 많아지는 단점이 있다.
+
+<img width="1135" height="1332" alt="대전_육각형격자" src="https://github.com/user-attachments/assets/3ab8c7ba-5039-4808-a056-155a3c1cbd05" />
