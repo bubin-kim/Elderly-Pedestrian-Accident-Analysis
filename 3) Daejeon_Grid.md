@@ -14,3 +14,6 @@
 격자는 500으로 설정 -> 공간 패턴을 세밀하게 볼 수 있지만 노이즈가 많아지는 단점이 있다.
 
 <img width="1135" height="1332" alt="대전_육각형격자" src="https://github.com/user-attachments/assets/3ab8c7ba-5039-4808-a056-155a3c1cbd05" />
+
+대전시 교통사고 데이터를 불러온 후 격자지도에 맞춰 clip하고 합치는 작업을 진행하였다.
+<img width="1467" height="1422" alt="육각형 지도" src="https://github.com/user-attachments/assets/c8931a55-0c08-4d3e-84a4-acedc7e871f7" />
